@@ -331,9 +331,3 @@ The playlist endpoint now returns all songs, and the playlist tests pass success
 - fix: notify song sharer when their song is rated
 - fix: limit listening now feed to recent events
 - fix: include last song in playlist results
-
-# Git Commit History
-
-The project required one commit per bug fix. Below is a screenshot of the commit history showing separate commits for each fix.
-
-![Git Log Screenshot](images/git-log.png)
